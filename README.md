@@ -1,3 +1,18 @@
+## Real-Time Chat Application
+
+*COMPANY* : CODTECH IT SOLUTION
+
+*NAME* : ABHISHEK KUMAR
+
+*INTERN ID* : CTIS4271
+
+*DOMAIN* : FULL STACK WEB DEVELOPMENT
+
+*DURATION* : 16 WEEKS
+
+*MENTOR* :NEELA SANTOSH KUMAR 
+
+
 # AbhiChat: Real-Time Chat Application
 
 A beautiful, highly-polished, real-time chat application built with React, Node.js, Express, and Socket.IO. 
@@ -84,5 +99,5 @@ Socket.IO enables real-time, bidirectional communication between web clients and
 
 <img width="1915" height="922" alt="Image" src="https://github.com/user-attachments/assets/f8a36cb8-3021-478c-95cf-4d8df9ae24de" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f91aeb9-0bc0-41f2-be10-389b28590cd9" />
+<img width="1918" height="922" alt="Image" src="https://github.com/user-attachments/assets/f72a3ea9-6085-4354-a89f-520d1ab26564" />
 
