@@ -81,3 +81,8 @@ Socket.IO enables real-time, bidirectional communication between web clients and
 ## OUTPUT
 
 <img width="1912" height="872" alt="Image" src="https://github.com/user-attachments/assets/90b1e00c-7ae9-4296-9240-42e188caee1b" />
+
+<img width="1915" height="922" alt="Image" src="https://github.com/user-attachments/assets/f8a36cb8-3021-478c-95cf-4d8df9ae24de" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f91aeb9-0bc0-41f2-be10-389b28590cd9" />
+
