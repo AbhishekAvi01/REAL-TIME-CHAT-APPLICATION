@@ -78,27 +78,6 @@ Socket.IO enables real-time, bidirectional communication between web clients and
 
 ---
 
-## Deployment Suggestions
+## OUTPUT
 
-To show off your project to recruiters, it's best to deploy it live.
-
-### Backend Deployment (Render or Railway)
-1. Push your code to a GitHub repository.
-2. Go to [Render](https://render.com/) or [Railway](https://railway.app/).
-3. Create a new "Web Service" and connect your GitHub repo.
-4. Set the Root Directory to `server`.
-5. Start Command: `npm start`.
-6. Once deployed, copy the backend URL.
-
-### Frontend Deployment (Vercel or Netlify)
-1. Go to your `client/src/App.jsx` file.
-2. Update the `URL` constant on line 10 to point to your new deployed backend URL instead of `http://localhost:3001`.
-   ```javascript
-   const URL = 'https://your-backend-app.onrender.com';
-   ```
-3. Go to [Vercel](https://vercel.com/) and import your GitHub repo.
-4. Set the Root Directory to `client`.
-5. Framework preset: `Vite`.
-6. Click Deploy.
-
-You now have a fully functioning, professional real-time chat app ready for your portfolio!
+<img width="1912" height="872" alt="Image" src="https://github.com/user-attachments/assets/90b1e00c-7ae9-4296-9240-42e188caee1b" />
